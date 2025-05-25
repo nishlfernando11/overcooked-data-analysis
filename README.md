@@ -4,3 +4,6 @@ This is a preliminary data analysis for Overcooked AI Behvioral Gameplay data of
 # AdaX Trust analysis: trust_analysis_notebook.ipynb
 This is a preliminary data analysis for Overcooked AI Behvioral Gameplay data and subjective data.
 
+# AdaX Trust analysis: trust_analysis_notebook Final.ipynb
+This is a complete data analysis for Overcooked AI Behvioral Gameplay data and subjective data.
+
